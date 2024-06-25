@@ -1,5 +1,5 @@
 ### About this repo
-This simulation implements solutions for optimizing item distribution across multiple warehouses, considering budget constraints. It uses both CPLEX and Particle Swarm Optimization (PSO) algorithms to solve this distribution problem.
+This simulation implements Operations Research solutions for optimizing item distribution across multiple warehouses, considering budget constraints. It uses both CPLEX and Particle Swarm Optimization (PSO) algorithms to solve this distribution problem.
 
 ### Description
 This project aims to optimize the distribution of items across multiple warehouses while maximizing profit and respecting budget constraints. It models the problem as a variant of the Multiple Knapsack Problem (MKP), where items represent products, knapsacks represent warehouses, and the constraints are based on retail shops handled by each warehouses.
